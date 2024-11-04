@@ -1,0 +1,730 @@
+Sept 03, 2024 4:46:09 PM edu.curtin.app.App fillMap
+INFO: filename: gridLarge
+Sept 03, 2024 4:46:09 PM edu.curtin.app.App fillMap
+INFO: Size: 12 rows, 10 columns
+Sept 03, 2024 4:46:09 PM edu.curtin.app.App initializeStructureContainer
+INFO: checking size of structure array x = 12 y = 10
+Sept 03, 2024 4:46:09 PM edu.curtin.app.App main
+INFO: use below line of code commented out to check contents on BaseCity individually
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 8 stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat wood 14
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 14.79307
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 32.022343
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 42.420255
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 58.572758 wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 7.0710678118654755 Construction Type: wood Number of Floors: 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 92.540998 wood 15
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.656854249492381 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 3 stone 40.259805
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky stone 14 16.946312
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky wood 16 3.501503
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 26.277298 wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.0 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 35.631035
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 30.469684
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 57.028825
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 34.80911
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.656854249492381 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 54.618448
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 36.597891 wood 12
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.242640687119285 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 20 wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 20
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 46.335031 9
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.0 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 46.570078
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.242640687119285 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 31.41014
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 47.180961
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 40.255126 stone 19
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 24 stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.8284271247461903 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 24 brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 16
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.0 Construction Type: concrete Number of Floors: 8
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.8284271247461903 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 28.888113
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 19.779823
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 13
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.4142135623730951 Construction Type: concrete Number of Floors: 9
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.0 Construction Type: concrete Number of Floors: 11
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.4142135623730951 Construction Type: concrete Number of Floors: 9
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 7 61.19771
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 33.353817
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 34.69381
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 46.119697
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.0 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.0 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.0 Construction Type: concrete Number of Floors: 8
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.0 Construction Type: concrete Number of Floors: 11
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 0.0 Construction Type: concrete Number of Floors: 21
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.0 Construction Type: concrete Number of Floors: 11
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 59.372967 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.0 Construction Type: concrete Number of Floors: 8
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 46.270567
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.0 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.0 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 4 brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat wood 2
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.4142135623730951 Construction Type: concrete Number of Floors: 9
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky true
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.0 Construction Type: concrete Number of Floors: 11
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 2 80.706009
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 1.4142135623730951 Construction Type: concrete Number of Floors: 9
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky stone 59.576177
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky stone 62.935339
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky wood 65.037064
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 66.961139
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.8284271247461903 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 99.810149
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.0 Construction Type: concrete Number of Floors: 8
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:rocky 95.837347
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.23606797749979 Construction Type: brick Number of Floors: 7
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 84.404466
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 2.8284271247461903 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 88.794792 stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 71.037022 wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat wood 20
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat brick 22.350757 12
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.242640687119285 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 10
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.0 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 85.984679
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.1622776601683795 Construction Type: brick Number of Floors: 6
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 71.235788
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 3.605551275463989 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 70.754956 brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.242640687119285 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 49.30003 brick 12
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.656854249492381 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 20.66986 17
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 39.93184 17
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.0 Construction Type: brick Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.123105625617661 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 4.47213595499958 Construction Type: stone Number of Floors: 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy brick 61.706887
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy brick 38.76721 8
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.656854249492381 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy 11 wood
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 38.823836 20
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 59.2055
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.0990195135927845 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy stone true
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.385164807134504 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy brick 50.026327
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 5.830951894845301 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy brick 19.330949
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.4031242374328485 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy stone
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 7.0710678118654755 Construction Type: wood Number of Floors: 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 7.211102550927978 Construction Type: wood Number of Floors: 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat 47.75097 5
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.708203932499369 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.324555320336759 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.082762530298219 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.0 Construction Type: stone Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:flat
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.082762530298219 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy true
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.324555320336759 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy 60.172148 brick
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 6.708203932499369 Construction Type: wood Number of Floors: 4
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy 42.69518
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 7.211102550927978 Construction Type: wood Number of Floors: 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Calculations Dump
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Distance weight: 7.810249675906654 Construction Type: wood Number of Floors: 3
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Checking retrieved string from baseCityString:swampy 12.581516
+Sept 03, 2024 4:46:34 PM edu.curtin.app.CentralCityConfiguration placeCity
+INFO: Final city cost is $ 2.1605760404800005E7

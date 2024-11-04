@@ -1,0 +1,12 @@
+Aug 28, 2024 8:44:18 PM edu.curtin.app.App fillMap
+INFO: filename: gridLarge
+Aug 28, 2024 8:44:18 PM edu.curtin.app.App fillMap
+INFO: Size: 12 rows, 10 columns
+Aug 28, 2024 8:44:18 PM edu.curtin.app.App initializeStructureContainer
+INFO: checking size of structure array x = 12 y = 10
+Aug 28, 2024 8:44:18 PM edu.curtin.app.App main
+INFO: use below line of code commented out to check contents on BaseCity individually
+Aug 28, 2024 8:44:51 PM edu.curtin.app.Menu placeStructure
+INFO: Checking retrieved string from baseCityString:flat 85.984679
+Aug 28, 2024 8:45:03 PM edu.curtin.app.Menu setMaterials
+INFO: checking values enterd by user foundationType = slab, constructionType = wood, numberOfFloors = 10

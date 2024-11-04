@@ -1,0 +1,38 @@
+A) Extensive refactoring has been done to eliminate all PMD errors so when ./gradlew check is ran the build succeeds.
+    Only 1 warning type has been supressed in 1 method called Menu.chooseCityConfiguration() which is the UnusedAssingment errors.
+    The reason behing this error supression is because the interface used for the stratagy pattern to build cities has the default value set to
+    random, however it is overridden and destroyed when the user choses a new configuration and its not used. This gives a PMD error that had to be
+    supressed as getting rid of the default random configuration would make the program crash if not chosen (random configuration).
+
+B) Several containers have been used in my code which includes Lists, ArrayLists and Maps. The main "structure" container has all the strucutres in the city
+    it is a 2D List that holds ArrayLists for structure stats such as height and foundation type. Maps have been used extensively as well such as for storing
+    menus as well as polymorphic method calls for the startagy pattern when used to build a city
+
+C) The program has been decently well broken up into its classes, methods and interfaces for the design pattens however the Menu class could of been broken
+    down a little better for seperation of concerns as it takes care of placing a structure and quitting the application when these could of been given to
+    another class
+
+D)  This program has exception handling on every user input statement to ensure the correct type and the correct range of data has been provided logging has
+    also extensively been used for debugging using log.info and log.severe has been used during invalid file paramater error where the application has to
+    terminate gracefully and cannot continue
+
+E)  The Stratagy pattern has been chosen in this application as one of its design patterns for building cities. The stratagy pattern is used when you try
+    to do the same thing (Build a city) but with different ways of doing it (Configurations) which made this the perfect method.
+
+    My Implementation of the stratagy pattern contains a private declaration of the CityBuilder interface in the Menu class which is set to a random city
+    configuration (which is the default value if none is chosen). If the user decides to change the configuration a method takes care of numerical user
+    input and sets the interface object based on that.
+    When the user finally decides to build the city, a polymorphic method call makes the interface figures out which class needs to be used which
+    has different types of implementations based on different user choices.
+
+F)  The Decorator pattern was used to fill the baseCity List. It is useful to use this pattern if there might be a large combination of classes which can
+    cause several issues such as massive classes or a high amount of repeat code. The Decorator pattern was used to have a manadatory terrain type, plus
+    optinal zoning rules for the decorator classes.
+
+    My implementation consits of 2 abstracts with the parent abstract having the mandatory terrain type concrete classes that inherit it and the
+    ZoningDecorator abstract inheriting from Terrain abstract which has all the decorator classes inheriting from the ZoningDecorator abstract. The different
+    types of concrete classes and decorator classes are called from a file reading method that creates the objcets based on the keywords present in the file 
+    being read.
+
+G)  The UML diagram shows the structure of the entire application with the association relationships for getters and setters chosen to be omitted as they are
+    common and frequent
