@@ -23,6 +23,14 @@ If you need to provide command-line arguments:
 ```
 ./gradlew run --args="arg1 arg2 arg3"
 ```
+in this application you will run it like this
+```
+./gradlew run --args="gridLarge"
+./gradlew run --args="gridMedium"
+./gradlew run --args="gridSmall"
+```
+
+
 
 If you run into permission problems:
 
